@@ -1,3 +1,8 @@
+## This is the Login Screen and Home Screen
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/user-attachments/assets/12ddd903-d35e-4a66-9650-bc523bb167d2" alt="Screen 1" width="300" />
+  <img src="https://github.com/user-attachments/assets/119cd6e8-6295-462c-a603-0f196525ec79" alt="Screen 2" width="300" />
+</div>
 
 
 ![password2](https://github.com/user-attachments/assets/12ddd903-d35e-4a66-9650-bc523bb167d2)
