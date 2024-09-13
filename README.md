@@ -1,5 +1,5 @@
-## These are the music screens 
-You can play and pause the music , seek music with the progress bar and also switch between songs
+## This is the main screen
+You can choose between what characters you want in your random password and choose the character length , then generate the password and copy it. Finally you can reset the app to generate a new password.
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/user-attachments/assets/12ddd903-d35e-4a66-9650-bc523bb167d2" alt="Screen 1" width="300" />
   <img src="https://github.com/user-attachments/assets/119cd6e8-6295-462c-a603-0f196525ec79" alt="Screen 2" width="300" />
